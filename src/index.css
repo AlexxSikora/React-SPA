@@ -8,6 +8,12 @@ body {
 	font-family: 'Roboto', sans-serif;
 }
 
+/* nav */
+
+.nav-link {
+	text-transform: uppercase;
+}
+
 /* header */
 
 .header-img {
