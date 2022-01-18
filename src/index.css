@@ -129,15 +129,15 @@ main h2 {
 	width: 150px;
 	border-radius: 20px;
 }
-.first {
+.maintenance {
 	background-image: url('/public/img/code-1839406_640.jpg');
 }
 
-.second {
+.security {
 	background-image: url('/public/img/keyboard-561124_640.jpg');
 }
 
-.third {
+.consultancy {
 	background-image: url('/public/img/travelers-notebook-2245970_640.jpg');
 }
 
