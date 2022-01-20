@@ -19,14 +19,6 @@ export const Services = () => {
 					<div className='services-text'>doradztwo</div>
 				</section>
 			</div>
-
-			{/* <ul className="services-list">
-                <li>Usługa nr 1</li>
-                <li>Usługa nr 2</li>
-                <li>Usługa nr 3</li>
-                <li>Usługa nr 4</li>
-                <li>Usługa nr 5</li>
-            </ul> */}
 		</>
 	);
 };

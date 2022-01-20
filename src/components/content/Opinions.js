@@ -12,7 +12,6 @@ export const Opinions = () => {
 		try {
 			const res = await axios.get('https://randomuser.me/api/?results=5');
 			setPersons(res.data);
-			console.log(res.data);
 			setLoading(true);
 		} catch (err) {
 			console.log(err.message);
